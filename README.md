@@ -30,6 +30,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/7ey5skhq8w"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="7ey5skhq8w" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tizen&show_icons=true&locale=en&layout=compact" alt="tizen" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tizen&show_icons=true&locale=en&layout=compact" alt="tizen" /></p><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tizen&show_icons=true&locale=en" alt="tizen" /></p>
