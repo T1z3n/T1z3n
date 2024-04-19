@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=T1z3n&label=Profile%20views&color=0e75b6&style=flat" alt="tizen" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=>T1z3n" alt="tizen" /></a> </p>
+- Member by [Parcyvalstudios](https://github.com/Parcyval-Studios)
 
 - 🔭 I’m currently working on [Osu-Companion](https://github.com/T1z3n/Osu-Companion)
 
