@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm TIZEN</h1>
 <h3 align="center">A passionate Securty Enthusiast and Dev from Germany</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tizen&label=Profile%20views&color=0e75b6&style=flat" alt="tizen" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=T1z3n&label=Profile%20views&color=0e75b6&style=flat" alt="tizen" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tizen" alt="tizen" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=>T1z3n" alt="tizen" /></a> </p>
 
 - 🔭 I’m currently working on [Osu-Companion](https://github.com/T1z3n/Osu-Companion)
 
@@ -30,6 +30,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/7ey5skhq8w"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="7ey5skhq8w" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tizen&show_icons=true&locale=en&layout=compact" alt="tizen" /></p><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=T1z3n&show_icons=true&locale=en&layout=compact" alt="tizen" /></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tizen&show_icons=true&locale=en" alt="tizen" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=T1z3n&show_icons=true&locale=en" alt="tizen" /></p>
