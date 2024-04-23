@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm TIZEN</h1>
 <h3 align="center">A passionate Cyber Security Enthusiast and Dev from Germany</h3>
-[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/q0sj.svg)](https://uptime.betterstack.com/?utm_source=status_badge);
+<img src="https://uptime.betterstack.com/status-badges/v1/monitor/q0sj.svg" href="https://uptime.betterstack.com/?utm_source=status_badge">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=T1z3n&label=Profile%20views&color=0e75b6&style=flat" alt="tizen" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=>T1z3n" alt="tizen" /></a> </p>
