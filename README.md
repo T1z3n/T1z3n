@@ -25,6 +25,7 @@
 
 <h3 align="left">Support:</h3>
 
+<a href='https://ko-fi.com/C0C6FT078' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi4.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=T1z3n&show_icons=true&locale=en&layout=compact" alt="tizen" /></p><br>
 
