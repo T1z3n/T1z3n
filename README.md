@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=>T1z3n" alt="tizen" /></a> </p>
 - Member by [Parcyvalstudios](https://github.com/Parcyval-Studios)
 
-- 🔭 I’m currently working on [Webpage https://parcyvalstudios.com/](https://github.com/Parcyval-Studios/Osu-Companion)
+- 🔭 I’m currently working on [Mobile Osu! {classic} Companion](https://github.com/Parcyval-Studios/Osu-Companion)
 
 - 🌱 I’m currently learning **Kotlin, Unity, Blender, CyberSec**
 
