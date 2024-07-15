@@ -6,7 +6,10 @@
 > 🛠️ 'cause of an Datacenter-transfer Parcyvalstudios.com is from 1230(EU-Time/BER) until 0200(EU-Time/BER) mighty off
 We will workin' to stay online between the changes.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=>T1z3n" alt="tizen" /></a> </p>
+> ✉️ Mails from @parcyvalstudios.com might be lost current the Transfer-time. Choose an another method between this.
+(f.e. Discord, Twitter etc.)
+
+
 - Member by [Parcyvalstudios](https://github.com/Parcyval-Studios)
 
 - 🔭 I’m currently working on [Mobile Osu! {classic} Companion](https://github.com/Parcyval-Studios/Osu-Companion)
