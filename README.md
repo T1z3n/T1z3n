@@ -2,7 +2,7 @@
 <h3 align="center">"Security by Design" and Dev from Germany</h3>
 
 
-<img src="https://uptime.betterstack.com/status-badges/v1/monitor/q0sj.svg" href="https://uptime.betterstack.com/?utm_source=status_badge">
+<img src="https://uptime.betterstack.com/status-badges/v1/monitor/q0sj.svg" href="https://parcyvalstudios.com">
 
 > 🛠️ SSL-Zertificate is on-going, it will take a while
 
