@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm TIZEN</h1>
-<h3 align="center">A passionate Cyber Security Enthusiast and Dev from Germany</h3>
+<h3 align="center">"Security by Design" and Dev from Germany</h3>
 <img align="center" src="https://osu-sig.vercel.app/card?user=T%20I%20Z%20E%20N&mode=mania&lang=en&blur=10&round_avatar=true&animation=true&hue=200" witdh="100%">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=T1z3n&label=Profile%20views&color=0e75b6&style=flat" alt="tizen" /> </p>
 <img src="https://uptime.betterstack.com/status-badges/v1/monitor/q0sj.svg" href="https://uptime.betterstack.com/?utm_source=status_badge">
 
-> 🛠️ 'cause of an Datacenter-transfer Parcyvalstudios.com is from 1230(EU-Time/BER) up to the 18.07. 0200(EU-Time/BER) mighty off
-We will workin' to stay online between the changes.
-
+> 🛠️ SSL-Zertificate is on-going, it will take a while
 
 
 - Member by [Parcyvalstudios](https://github.com/Parcyval-Studios)
