@@ -10,7 +10,6 @@
 - Member by [Parcyvalstudios](https://github.com/Parcyval-Studios)
 
 - 🔭 I’m currently working on [Visitor-managment-System](https://github.com/T1z3n/Visitor-Management-System)
-
 - 🌱 I’m currently learning **php, CyberSec**
 - 
 - 📝 I regularly write articles on [https://mastodon.social/@TIZEN](https://mastodon.social/@TIZEN)
