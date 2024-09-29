@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm TIZEN</h1>
 <h3 align="center">"Security by Design" and Dev from Germany</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=T1z3n&label=Profile%20views&color=0e75b6&style=flat" alt="tizen" /> </p>
+
 <img src="https://uptime.betterstack.com/status-badges/v1/monitor/q0sj.svg" href="https://uptime.betterstack.com/?utm_source=status_badge">
 
 > 🛠️ SSL-Zertificate is on-going, it will take a while
