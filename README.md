@@ -3,7 +3,7 @@
 
 
 <img src="https://uptime.betterstack.com/status-badges/v1/monitor/q0sj.svg" href="https://parcyvalstudios.com">
-
+![Arrexel](https://www.hackthebox.eu/badge/image/1783591)
 > 🛠️ SSL-Zertificate is on-going, it will take a while
 
 
