@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm TIZEN</h1>
 <h3 align="center">"Security by Design" and Dev from Germany</h3>
 
-
-<img src="https://uptime.betterstack.com/status-badges/v1/monitor/q0sj.svg" href="https://parcyvalstudios.com">
 ![Arrexel](https://www.hackthebox.eu/badge/image/1783591)
+<img src="https://uptime.betterstack.com/status-badges/v1/monitor/q0sj.svg" href="https://parcyvalstudios.com">
 > 🛠️ SSL-Zertificate is on-going, it will take a while
 
 
