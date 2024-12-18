@@ -19,5 +19,4 @@
 - ⚡ Fun fact **Im Using Graphene**
 
 ---
-[![image](https://github.com/user-attachments/assets/c96672b0-9871-4c51-8bf6-1cdee33bf756)
-]
+[![image](https://github.com/user-attachments/assets/c96672b0-9871-4c51-8bf6-1cdee33bf756)]
